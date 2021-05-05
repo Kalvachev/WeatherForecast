@@ -1,8 +1,8 @@
 ## <img src="https://user-images.githubusercontent.com/43339813/117165004-cb8f5000-adcd-11eb-828c-df72b19eea56.png" width="300" title="WeatherForecast logo"> ##
 
-### Create simple Weather forecast ###
+### Create simple Weather Forecast ###
 
-You can see the project in action:  [here]().
+You can see the project in action:  [here](https://weatherforecastsite.netlify.app/)
 
 #### Languages:
 - JаvaScript
